@@ -1,0 +1,74 @@
+
+
+body {
+
+    background-color: silver;
+}
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
+h1 {
+    font-size: xx-large;
+    font-variant: small-caps;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+   
+}
+
+h4 {
+    border: 3px solid green;
+    padding: 10px;
+    font-size: larger;
+    
+ }
+
+ h5 {
+    border: 3px solid blue;
+    padding: 11px;
+    font-size: larger;
+ 
+ }
+
+ h6 {
+    text-align: center;
+    font-size: x-large;
+ }
+
+a {
+    text-align: center;
+    font-size: x-large;
+}
+
+
+
+.Book {
+    border: 5px outset purple;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+
+.sport {
+    border: 5px outset green;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+
+.car {
+    border: 5px outset green;
+    background-color: lightblue;
+    text-align: center;
+  }
+
